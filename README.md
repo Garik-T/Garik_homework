@@ -1,2 +1,0 @@
-# Garik_homework
-python_ML_ISTC_homewroks
